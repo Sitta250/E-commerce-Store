@@ -1,4 +1,4 @@
-![home](https://github.com/user-attachments/assets/915924ee-c014-4fa9-b545-55692cc28db1)E-commerce-Store
+E-commerce-Store
 A full-stack e-commerce web application built using modern technologies to provide a seamless shopping experience. The application includes user authentication, product browsing, a shopping cart, and a checkout system. This project is designed for learning purposes and demonstrates the integration of backend and frontend technologies.
 
 Key Features:
@@ -14,17 +14,18 @@ Technologies Used:
 	•Backend: Node.js, Express.js, MongoDB, Mongoose
 	•Authentication: JSON Web Tokens (JWT), bcrypt for password hashing
 	•Other Tools: Axios for API calls, Postman for testing, Git for version control
- ---
+ 
 
 
 
 
- project walkthrough:
+project walkthrough:
 1)Register/Login Page
 	•Register: Users enter email, username, and password, which are hashed and stored in MongoDB in the users collection.
 	•Login: Users provide email and password; upon success, a JWT token and username are sent back and stored in localStorage.
 	•Purpose: Secures the app and provides access to personalized features.
  <img width="398" alt="land" src="https://github.com/user-attachments/assets/cb1699f5-553f-43e1-824c-83ded51842bb" />
+ 
 2)Home Page
 	•Displays all available products in a grid format with images, names, ratings, brands, and prices.
 	•Data is fetched from the /api/products endpoint.
