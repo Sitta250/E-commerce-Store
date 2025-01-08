@@ -1,0 +1,13 @@
+{
+  "name": "ecommerce2",
+  "version": "1.0.0",
+  "description": "things to fix: -make the total change after increment and decrement of produc amout -remove button -find a way to store cart data",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server src --verbose node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
