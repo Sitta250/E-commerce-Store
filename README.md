@@ -1,4 +1,4 @@
-# E-commerce-Store
+![image](https://github.com/user-attachments/assets/44bd6397-2adb-436c-8a78-3fc6b78a6612)<img width="1512" alt="Screenshot 2568-01-08 at 17 26 23" src="https://github.com/user-attachments/assets/167ba4f8-3d08-4644-8d52-8f5e67ecf862" /># E-commerce-Store
 A full-stack e-commerce web application built using modern technologies to provide a seamless shopping experience. The application includes user authentication, product browsing, a shopping cart, and a checkout system. This project is designed for learning purposes and demonstrates the integration of backend and frontend technologies.
 
 Key Features:
